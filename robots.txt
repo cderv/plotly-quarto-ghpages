@@ -1,0 +1,1 @@
+Sitemap: https://cderv.github.io/plotly-quarto-ghpages/sitemap.xml
